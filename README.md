@@ -9,15 +9,22 @@
 - Smooth navigation between screens using **Jetpack Navigation**.  
 
 ## Screenshots  
-### Superhero List Screen  
-<p align="center">
-  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/SuperHeroBook/1.png" alt="Xylophone Demo" width="300">
-</p>
 
-### Superhero Details Screen  
+### 📜 Superhero List Screen  
+A glimpse of the hero list, displaying all available superheroes in a beautiful grid layout.  
+
 <p align="center">
-  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/SuperHeroBook/2.png" alt="Xylophone Demo" width="300">
-</p>
+  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/SuperHeroBook/1.png" alt="Superhero List Screen" width="300">
+</p>  
+
+---
+
+### 🦸 Superhero Details Screen  
+Dive into the details of each superhero with this elegant and informative screen.  
+
+<p align="center">
+  <img src="https://github.com/muhammedmustafageldi/My-ScreenShots-Files/blob/main/Screnshots/SuperHeroBook/2.png" alt="Superhero Details Screen" width="300">
+</p>  
 
 ## Project Structure  
 - **MainActivity.kt**: Entry point for the app. Hosts the `NavHost` for screen navigation.  
